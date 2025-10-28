@@ -3,7 +3,7 @@ Enter "help" below or click "Help" above for more information.
 >>> 
 = RESTART: C:/Users/pmjey/OneDrive/Desktop/Python work - Pavithra/Resume work using python.py
 RESUME
-Name : Pavithra
+Name : Pavithra P
 D.O.B : 21/02/1995
 Gender : Female
 Educational Qualification : BE (E&I), 2016
